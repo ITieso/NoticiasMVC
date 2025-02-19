@@ -1,0 +1,111 @@
+﻿@model ArchitectureMvc.Application.DTOs.NoticiaDto
+
+@{
+    ViewData["Title"] = "Cadastrar Notícia";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form id="noticiaForm" method="post">
+    <div class="form-group">
+        <label asp-for="Titulo" class="control-label"></label>
+        <input asp-for="Titulo" class="form-control" required/>
+        <span asp-validation-for="Titulo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Texto" class="control-label"></label>
+        <textarea asp-for="Texto" class="form-control" required></textarea>
+        <span asp-validation-for="Texto" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UsuarioId" class="control-label">Nome</label>
+        <select asp-for="UsuarioId" class="form-control" asp-items="ViewBag.Usuarios" required>
+            <option value="">Selecione um usuário</option>
+        </select>
+        <span asp-validation-for="UsuarioId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Tags" class="control-label">Tags</label>
+        <input type="text" id="TagInput" class="form-control" placeholder="Digite uma tag" />
+        <button type="button" id="AddTagButton" class="btn btn-secondary">Adicionar Tag</button>
+        <ul id="TagList" class="list-inline mt-2"></ul>
+        <div id="HiddenTagsContainer"></div>
+    </div>
+    <button type="submit" class="btn btn-primary">Cadastrar</button> <a href="@Url.Action("Index", "Noticia")" class="btn btn-warning">Voltar para a lista de notícias</a>
+</form>
+
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var tags = [];
+
+            // Adicionar tag
+            $('#AddTagButton').click(function () {
+                var tag = $('#TagInput').val().trim();
+                if (tag && !tags.includes(tag)) {
+                    tags.push(tag);
+                    $('#TagList').append('<li class="list-inline-item" data-tag="' + tag + '">' +
+                        tag + ' <button type="button" class="btn btn-danger btn-sm remove-tag">X</button></li>');
+                    $('#TagInput').val('');
+                    updateTagsInput();
+                }
+            });
+
+            // Remover tag
+            $('#TagList').on('click', '.remove-tag', function () {
+                var tag = $(this).parent().data('tag');
+                tags = tags.filter(t => t !== tag);
+                $(this).parent().remove();
+                updateTagsInput();
+            });
+
+            // Atualizar campo oculto com tags
+                   function updateTagsInput() {
+            // Remove todos os campos ocultos existentes
+            $('#HiddenTagsContainer').empty();
+
+            // Adiciona um campo oculto para cada tag
+            tags.forEach(function (tag) {
+                $('#HiddenTagsContainer').append(
+                    '<input type="hidden" name="Tags" value="' + tag + '">'
+                );
+            });
+        }
+
+            // Enviar formulário via AJAX
+               $('#noticiaForm').submit(function (e) {
+    e.preventDefault();
+
+    var formData = new FormData(this);
+
+    // Adiciona cada tag ao FormData individualmente
+    tags.forEach(function (tag, index) {
+        formData.append('Tags[' + index + ']', tag);
+    });
+
+    $.ajax({
+        url: '@Url.Action("Create")',
+        type: 'POST',
+        data: formData,
+        processData: false,
+        contentType: false,
+        success: function (response) {
+            if (response.success) {
+                alert('Notícia cadastrada com sucesso!');
+                window.location.href = '@Url.Action("Index", "Noticia")';
+            } else {
+                alert('Erro ao cadastrar a notícia: ' + response.errors.join(', '));
+            }
+        },
+        error: function (xhr) {
+            console.error("Erro na requisição:", xhr.responseText);
+            alert('Erro ao processar a requisição.');
+        }
+                });
+            });
+        });
+    </script>
+}

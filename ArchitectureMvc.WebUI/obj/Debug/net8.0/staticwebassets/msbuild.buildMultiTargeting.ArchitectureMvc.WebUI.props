@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ArchitectureMvc.WebUI.props" />
+</Project>

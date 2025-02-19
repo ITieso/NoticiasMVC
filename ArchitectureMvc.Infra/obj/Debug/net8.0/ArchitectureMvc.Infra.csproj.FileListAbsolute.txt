@@ -1,0 +1,17 @@
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\bin\Debug\net8.0\ArchitectureMvc.Infra.deps.json
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\bin\Debug\net8.0\ArchitectureMvc.Infra.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\bin\Debug\net8.0\ArchitectureMvc.Infra.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\bin\Debug\net8.0\ArchitectureMvc.Domain.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\bin\Debug\net8.0\ArchitectureMvc.Domain.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.csproj.AssemblyReference.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.AssemblyInfo.cs
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\Architec.74838C96.Up2Date
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\refint\ArchitectureMvc.Infra.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ref\ArchitectureMvc.Infra.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\bin\Debug\net8.0\ArchitectureMvc.Infra.runtimeconfig.json
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Infra\obj\Debug\net8.0\ArchitectureMvc.Infra.genruntimeconfig.cache

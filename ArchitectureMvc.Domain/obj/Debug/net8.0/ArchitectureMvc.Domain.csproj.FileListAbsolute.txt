@@ -1,0 +1,11 @@
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\bin\Debug\net8.0\ArchitectureMvc.Domain.deps.json
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\bin\Debug\net8.0\ArchitectureMvc.Domain.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\bin\Debug\net8.0\ArchitectureMvc.Domain.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ArchitectureMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ArchitectureMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ArchitectureMvc.Domain.AssemblyInfo.cs
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ArchitectureMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ArchitectureMvc.Domain.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\refint\ArchitectureMvc.Domain.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ArchitectureMvc.Domain.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Domain\obj\Debug\net8.0\ref\ArchitectureMvc.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\bin\Debug\net8.0\ArchitectureMvc.Application.deps.json
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\bin\Debug\net8.0\ArchitectureMvc.Application.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\bin\Debug\net8.0\ArchitectureMvc.Application.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\bin\Debug\net8.0\ArchitectureMvc.Domain.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\bin\Debug\net8.0\ArchitectureMvc.Domain.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.csproj.AssemblyReference.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.AssemblyInfo.cs
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\Architec.2C288E7D.Up2Date
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\refint\ArchitectureMvc.Application.dll
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ArchitectureMvc.Application.pdb
+C:\Users\it\Desktop\ProvaCandidato\ArchitectureMVC\ArchitectureMvc.Application\obj\Debug\net8.0\ref\ArchitectureMvc.Application.dll

@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.webui\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|solutionrelative:architecturemvc.webui\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.webui\\views\\noticia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|solutionrelative:architecturemvc.webui\\views\\noticia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.application\\services\\noticiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|solutionrelative:architecturemvc.application\\services\\noticiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.application\\dtos\\noticiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|solutionrelative:architecturemvc.application\\dtos\\noticiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.webui\\views\\noticia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|solutionrelative:architecturemvc.webui\\views\\noticia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6D66CB-384B-47E5-87E2-CC6A6B97C085}|ArchitectureMvc.IOC\\ArchitectureMvc.IOC.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6D66CB-384B-47E5-87E2-CC6A6B97C085}|ArchitectureMvc.IOC\\ArchitectureMvc.IOC.csproj|solutionrelative:architecturemvc.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.webui\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|solutionrelative:architecturemvc.webui\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|solutionrelative:architecturemvc.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.application\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|solutionrelative:architecturemvc.application\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.webui\\views\\noticia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|solutionrelative:architecturemvc.webui\\views\\noticia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.application\\iservices\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|solutionrelative:architecturemvc.application\\iservices\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.domain\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|solutionrelative:architecturemvc.domain\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086C06EF-76D9-46C1-A27F-C85AE29CCF4F}|ArchitectureMvc.Infra\\ArchitectureMvc.Infra.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.infra\\repositories\\noticiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086C06EF-76D9-46C1-A27F-C85AE29CCF4F}|ArchitectureMvc.Infra\\ArchitectureMvc.Infra.csproj|solutionrelative:architecturemvc.infra\\repositories\\noticiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086C06EF-76D9-46C1-A27F-C85AE29CCF4F}|ArchitectureMvc.Infra\\ArchitectureMvc.Infra.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.infra\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086C06EF-76D9-46C1-A27F-C85AE29CCF4F}|ArchitectureMvc.Infra\\ArchitectureMvc.Infra.csproj|solutionrelative:architecturemvc.infra\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.webui\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E9C8E6B-BDD9-4E97-BA3C-A5AF090AF003}|ArchitectureMvc.WebUI\\ArchitectureMvc.WebUI.csproj|solutionrelative:architecturemvc.webui\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|solutionrelative:architecturemvc.domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.domain\\entities\\noticiatag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|solutionrelative:architecturemvc.domain\\entities\\noticiatag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.application\\mappings\\dtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1247E6B0-96BE-481B-B7D2-117F389EB060}|ArchitectureMvc.Application\\ArchitectureMvc.Application.csproj|solutionrelative:architecturemvc.application\\mappings\\dtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|c:\\users\\it\\desktop\\provacandidato\\architecturemvc\\architecturemvc.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A14BC4-A0CA-4C32-A9B0-BB0475A633B6}|ArchitectureMvc.Domain\\ArchitectureMvc.Domain.csproj|solutionrelative:architecturemvc.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoticiaService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Services\\NoticiaService.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Application\\Services\\NoticiaService.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Services\\NoticiaService.cs",
+              "RelativeToolTip": "ArchitectureMvc.Application\\Services\\NoticiaService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:22:36.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Noticia\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ArchitectureMvc.WebUI\\Views\\Noticia\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Noticia\\Edit.cshtml",
+              "RelativeToolTip": "ArchitectureMvc.WebUI\\Views\\Noticia\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:52:03.769Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ArchitectureMvc.WebUI\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "ArchitectureMvc.WebUI\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:47:43.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoticiaDto.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\DTOs\\NoticiaDto.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Application\\DTOs\\NoticiaDto.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\DTOs\\NoticiaDto.cs",
+              "RelativeToolTip": "ArchitectureMvc.Application\\DTOs\\NoticiaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:14:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NoticiaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Infra\\Repositories\\NoticiaRepository.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Infra\\Repositories\\NoticiaRepository.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Infra\\Repositories\\NoticiaRepository.cs",
+              "RelativeToolTip": "ArchitectureMvc.Infra\\Repositories\\NoticiaRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:55:57.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Infra\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Infra\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Infra\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "ArchitectureMvc.Infra\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:03:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Noticia\\Index.cshtml",
+              "RelativeDocumentMoniker": "ArchitectureMvc.WebUI\\Views\\Noticia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Noticia\\Index.cshtml",
+              "RelativeToolTip": "ArchitectureMvc.WebUI\\Views\\Noticia\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T03:02:25.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "ArchitectureMvc.Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:18:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Application\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Services\\TagService.cs",
+              "RelativeToolTip": "ArchitectureMvc.Application\\Services\\TagService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:45:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Noticia\\Create.cshtml",
+              "RelativeDocumentMoniker": "ArchitectureMvc.WebUI\\Views\\Noticia\\Create.cshtml",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Views\\Noticia\\Create.cshtml",
+              "RelativeToolTip": "ArchitectureMvc.WebUI\\Views\\Noticia\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T05:58:54.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoticiasController.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Controllers\\NoticiasController.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.WebUI\\Controllers\\NoticiasController.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Controllers\\NoticiasController.cs",
+              "RelativeToolTip": "ArchitectureMvc.WebUI\\Controllers\\NoticiasController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:45:50.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.IOC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.IOC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.IOC\\DependencyInjection.cs",
+              "RelativeToolTip": "ArchitectureMvc.IOC\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:54:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.WebUI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.WebUI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ArchitectureMvc.WebUI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:50:11.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Domain\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Entities\\Tag.cs",
+              "RelativeToolTip": "ArchitectureMvc.Domain\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:13:29.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\IServices\\ITagService.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Application\\IServices\\ITagService.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\IServices\\ITagService.cs",
+              "RelativeToolTip": "ArchitectureMvc.Application\\IServices\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:00:54.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Interfaces\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Domain\\Interfaces\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Interfaces\\ITagRepository.cs",
+              "RelativeToolTip": "ArchitectureMvc.Domain\\Interfaces\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:58:01.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoticiaTag.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Entities\\NoticiaTag.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Domain\\Entities\\NoticiaTag.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Entities\\NoticiaTag.cs",
+              "RelativeToolTip": "ArchitectureMvc.Domain\\Entities\\NoticiaTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:41:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DtoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Mappings\\DtoMappingProfile.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Application\\Mappings\\DtoMappingProfile.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Application\\Mappings\\DtoMappingProfile.cs",
+              "RelativeToolTip": "ArchitectureMvc.Application\\Mappings\\DtoMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:01:22.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "ArchitectureMvc.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\it\\Desktop\\ProvaCandidato\\ArchitectureMVC\\ArchitectureMvc.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "ArchitectureMvc.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:13:38.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
